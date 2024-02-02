@@ -1,0 +1,14 @@
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    text-align: center;
+}
+.card{
+    max-width: 300px;
+    min-width: 300px;
+    margin: auto;
+}
+.card img{
+    width: 100%;
+}
